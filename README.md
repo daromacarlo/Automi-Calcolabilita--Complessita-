@@ -16,3 +16,7 @@
 > Raccolta di esercizi ufficiali e non, con **soluzioni commentate** su automi, linguaggi formali e problemi di decisione.
 
 ---
+
+### Per riuscire a visualizzare i documenti scarica xournal++ in grado di leggere i file xpp.
+Link:
+https://xournalpp.github.io/
