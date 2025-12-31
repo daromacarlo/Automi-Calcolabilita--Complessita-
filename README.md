@@ -10,6 +10,6 @@
 [![PDF](https://img.shields.io/badge/resources-Appunti%20%26%20Esercizi-informational)]()
 
 ---
-📄 [Esercizi Risolti](https://github.com/daromacarlo/ACC/blob/main/esercizi.pdf)  
+📄 [Esercizi Risolti](https://github.com/daromacarlo/ACC/blob/main/esercizi_annotato.pdf)  
 > Raccolta di esercizi.
 
