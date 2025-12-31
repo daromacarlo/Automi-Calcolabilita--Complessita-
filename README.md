@@ -10,13 +10,6 @@
 [![PDF](https://img.shields.io/badge/resources-Appunti%20%26%20Esercizi-informational)]()
 
 ---
+📄 [Esercizi Risolti](https://github.com/daromacarlo/ACC/blob/main/esercizi.pdf)  
+> Raccolta di esercizi.
 
-### ✅ Esercizi Svolti e Commentati
-📄 [Esercizi Risolti](https://github.com/daromacarlo/ACC/blob/main/2025-10-23-Nota-12-33.xopp)  
-> Raccolta di esercizi ufficiali e non, con **soluzioni commentate** su automi, linguaggi formali e problemi di decisione.
-
----
-
-### Per riuscire a visualizzare i documenti scarica xournal++ in grado di leggere i file xpp.
-Link:
-https://xournalpp.github.io/
