@@ -6,7 +6,6 @@
 [![Automi](https://img.shields.io/badge/topic-Automi-blue)]()  
 [![Complessità](https://img.shields.io/badge/theory-Complessità-red)]()  
 [![Calcolabilità](https://img.shields.io/badge/theory-Calcolabilità-yellow)]()  
-[![Esame](https://img.shields.io/badge/focus-Preparazione%20Esame-success)]()  
 [![PDF](https://img.shields.io/badge/resources-Appunti%20%26%20Esercizi-informational)]()
 
 ---
